@@ -1,0 +1,71 @@
+﻿'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   1 = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+MyService hizmeti yükleniyor...
+MyService hizmeti başarıyla yüklendi.
+Application günlüğünde MyService EventLog kaynağı oluşturuluyor...
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   1 = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+MyService EventLog kaynağı kaldırılıyor.
+MyService hizmeti sistemden kaldırılıyor...
+MyService hizmeti sistemden başarıyla kaldırıldı.
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+MyService EventLog kaynağı kaldırılıyor.
+Uyarı: MyService kaynağı yerel makinede kayıtlı değil.
+MyService hizmeti sistemden kaldırılıyor...
+System.ServiceProcess.ServiceInstaller yükleyicisinin kaldırılmasında özel durum oluştu.
+System.ComponentModel.Win32Exception: Belirtilen hizmet, yüklü bir hizmet olarak yok
+Yükleme kaldırılırken özel durum oluştu. Bu özel durum yoksayılacak ve yükleme kaldırma devam edecek. Ancak yükleme kaldırıldıktan sonra uygulama tamamen kaldırılamamış olabilir.
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+MyService hizmeti yükleniyor...
+MyService hizmeti başarıyla yüklendi.
+Application günlüğünde MyService EventLog kaynağı oluşturuluyor...
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+MyService EventLog kaynağı kaldırılıyor.
+MyService hizmeti sistemden kaldırılıyor...
+MyService hizmeti sistemden başarıyla kaldırıldı.
+MyService hizmetini durdurma girişimi.
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
+MyService hizmeti yükleniyor...
+MyService hizmeti başarıyla yüklendi.
+Application günlüğünde MyService EventLog kaynağı oluşturuluyor...
+'C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   i = 
+   logfile = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+   assemblypath = C:\Users\Ciko\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logtoconsole = 
